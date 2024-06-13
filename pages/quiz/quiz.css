@@ -190,7 +190,7 @@ main {
     }
 }
 
-.altenativas label#correta {
+.alternativas label#correta {
     outline: 3px solid var(--green);
 
     & span {
@@ -199,7 +199,7 @@ main {
     }
 }
 
-.altenativas label#errada {
+.alternativas label#errada {
     outline: 3px solid var(--red);
 
     & span {
